@@ -5,6 +5,8 @@ The previously used vision document is superseeded by the continous, changing vi
 
 ## [Browse project ideas](https://github.com/dlang/projects/issues)
 
+<br>
+
 Note: some of these projects are not necessarily endorsed by the D Language Foundation. Endorsed projects are marked with the "vision" label.
 
 Everyone is welcome to submit new project ideas. However, please keep in mind that this repository tries to collect high-level goals and project. A good rule of thumb is that if a project can't be split into smaller parts, it might belong to its respective issue tracker.
@@ -17,9 +19,9 @@ Good Example: Improve DMD user experience on Windows (includes a list of issues)
 
 As projects are suggested by individual people, it's hard to judge how important they are to community. Hence, please vote on them via GitHub reactions as this helps us a lot in priotizing issues.
 
-## Vision projects
+## Leadership vision projects
 
-Projects that are marked with the "vision" labelled are vision projects of the D Language Foundation.
+Projects that are marked with the "leadership vision" labelled are vision projects of the D Language Foundation.
 These projects are seen as key projects to D's success by the leadership.
 
 ## Milestones
